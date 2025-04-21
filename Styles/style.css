@@ -1,0 +1,57 @@
+body {
+  background-color: #d9d9d9;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.firstDiv {
+  background-color: #ffffff;
+  margin: auto;
+  width: 367px;
+  height: 509px;
+  border-radius: 8px;
+}
+
+.Image {
+  border-radius: 8px 8px 0px 0px;
+}
+
+.secondDiv {
+  width: 367px;
+  height: 220px;
+}
+
+.thirdDiv {
+  font-size: 24px;
+  color: #5468e7;
+  margin: 24px 0px 48px 0px;
+  padding: 0px 16px 0px 16px;
+}
+
+.Description {
+  font-size: 14px;
+  color: #232340;
+  letter-spacing: 1%;
+}
+
+.fourthDiv {
+  width: auto;
+  height: 48px;
+  padding: 0px 0px 0px 16px;
+  display: flex;
+  align-items: center;
+}
+
+.username {
+  font-size: 14px;
+  color: #7676b2;
+  padding: 0px 8px 0px 8px;
+  border-right: solid;
+  border-width: 1.5px;
+  line-height: 23px;
+}
+
+.Date {
+  font-size: 14px;
+  color: #7676b2;
+  padding: 0px 0px 0px 8px;
+}
